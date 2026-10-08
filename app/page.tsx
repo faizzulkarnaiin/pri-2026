@@ -63,7 +63,7 @@ const TIERS: Tier[] = [
     name: "Nyok",
     price: "7",
     theme: "green",
-    perks: ["Mineral water", "Food (donut)"],
+    perks: ["Mineral water", "Snack"],
     note: "Benefits for the first 200 people only.",
   },
 
@@ -75,9 +75,9 @@ const TIERS: Tier[] = [
     theme: "maroon",
     vip: true,
     perks: [
-      "Food (chocolate)",
+      "Snack",
       "Mineral water",
-      "Merchandise (keychain & wallet)",
+      "Merchandise",
     ],
   },
 ];
