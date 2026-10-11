@@ -63,7 +63,7 @@ const TIERS: Tier[] = [
     name: "Nyok",
     price: "7",
     theme: "green",
-    perks: ["Mineral water", "Snack"],
+    perks: ["Snack", "Mineral water" ],
     note: "Benefits for the first 200 people only.",
   },
 
@@ -630,7 +630,7 @@ export default function Home() {
 
               <div className="p-5">
                 <h3 className="text-xl font-black text-[#6a1620] md:text-2xl">
-                  Kecak dance showcase
+                  Kecak Dance Showcase
                 </h3>
 
                 <div className="mt-3 flex flex-wrap gap-1.5">
@@ -666,7 +666,7 @@ export default function Home() {
 
               <div className="p-5">
                 <h3 className="text-xl font-black text-[#6a1620] md:text-2xl">
-                  Renjaka music showcase
+                  Renjaka Music Showcase
                 </h3>
 
                 <div className="mt-3 flex flex-wrap gap-1.5">
@@ -702,7 +702,7 @@ export default function Home() {
 
               <div className="p-5">
                 <h3 className="text-xl font-black text-[#6a1620] md:text-2xl">
-                  Drama musical showcase
+                  Drama Musical Showcase
                 </h3>
 
                 <div className="mt-3 flex flex-wrap gap-1.5">
@@ -743,7 +743,7 @@ export default function Home() {
 
               <div className="p-5">
                 <h3 className="text-xl font-black text-[#6a1620] md:text-2xl">
-                  Indonesian student music showcase
+                  Indonesian Student Music Showcase
                 </h3>
 
                 {/* <p className="mt-2 text-sm font-semibold leading-relaxed text-[#4a3d2c]">
@@ -783,7 +783,7 @@ export default function Home() {
             </span> */}
 
             <h2 className="mt-3 text-3xl font-black text-[#2c2013] md:text-5xl">
-               Sponsors &amp; Collaborators
+               Sponsors &amp; Media Partners
             </h2>
 
             {/* <p className="mx-auto mt-3 max-w-2xl text-sm font-semibold leading-relaxed text-[#4a3d2c] md:text-base">
