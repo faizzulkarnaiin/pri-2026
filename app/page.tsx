@@ -61,7 +61,7 @@ const TIERS: Tier[] = [
     id: "nyok",
     badge: "Regular",
     name: "Nyok",
-    price: "7",
+    price: "9",
     theme: "green",
     perks: ["Snack", "Mineral water" ],
     note: "Benefits for the first 200 people only.",
@@ -71,7 +71,7 @@ const TIERS: Tier[] = [
     id: "amprok",
     badge: "VIP",
     name: "Amprok",
-    price: "10",
+    price: "12",
     theme: "maroon",
     vip: true,
     perks: [
@@ -497,11 +497,11 @@ export default function Home() {
                   {" "}
                   <small className="block text-[9px] font-extrabold uppercase tracking-[.12em] text-[#4a3d2c]/75">
                     {" "}
-                    Date &amp; Time{" "}
+                    Date{" "}
                   </small>{" "}
                   <strong className="text-base font-black text-[#2c2013] md:text-lg">
                     {" "}
-                    TBA{" "}
+                    18 Desember 2026{" "}
                   </strong>{" "}
                 </div>{" "}
               </div>{" "}
@@ -852,6 +852,13 @@ export default function Home() {
               <div className="flex h-28 items-center justify-center rounded-xl border border-dashed border-[#6a1620]/30 bg-[#f6f0df] p-4 transition hover:-translate-y-1 hover:shadow-md">
                 <img
                   src="/images/pupuk-kaltim.png"
+                  alt="Pupuk Kaltim"
+                  className="max-h-20 w-full object-contain"
+                />
+              </div>
+              <div className="flex h-28 items-center justify-center rounded-xl border border-dashed border-[#6a1620]/30 bg-[#f6f0df] p-4 transition hover:-translate-y-1 hover:shadow-md">
+                <img
+                  src="/images/unifilm.png"
                   alt="Pupuk Kaltim"
                   className="max-h-20 w-full object-contain"
                 />
