@@ -67,19 +67,19 @@ const TIERS: Tier[] = [
     note: "Benefits for the first 200 people only.",
   },
 
-  {
-    id: "amprok",
-    badge: "VIP",
-    name: "Amprok",
-    price: "12",
-    theme: "maroon",
-    vip: true,
-    perks: [
-      "Snack",
-      "Mineral water",
-      "Merchandise",
-    ],
-  },
+  // {
+  //   id: "amprok",
+  //   badge: "VIP",
+  //   name: "Amprok",
+  //   price: "12",
+  //   theme: "maroon",
+  //   vip: true,
+  //   perks: [
+  //     "Snack",
+  //     "Mineral water",
+  //     "Merchandise",
+  //   ],
+  // },
 ];
 
 const GLOSSARY = [
