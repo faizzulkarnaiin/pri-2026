@@ -4,7 +4,7 @@ import HeroImage from "./hero-image";
    DATA & KONSTANTA
    ===================================================================== */
 
-const FORM_URL = "https://forms.gle/mYapuqZB98YUnT7Q8";
+const FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSedbDuDom6u3fXvt5VdmRxavbi4faDvbV30gTLI7GpvDFBLOQ/viewform?usp=publish-editor";
 const HERO_IMAGE = "/images/banner.jpg";
 
 type Theme = "green" | "maroon";
