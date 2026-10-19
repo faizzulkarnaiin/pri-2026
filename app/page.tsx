@@ -84,7 +84,7 @@ const TIERS: Tier[] = [
 
 const GLOSSARY = [
   { term: "Nyok", meaning: "let's go!" },
-  { term: "Amprok", meaning: "meet / bump into" },
+  // { term: "Amprok", meaning: "meet / bump into" },
 ];
 
 const ACCENT = "text-[#FFFFFF]";
