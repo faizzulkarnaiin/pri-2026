@@ -829,10 +829,10 @@ export default function Home() {
       >
         <div className="relative mx-auto max-w-6xl">
           <div className="mx-auto mb-8 max-w-2xl text-center md:mb-12">
-            <span className="inline-flex items-center gap-2 rounded-full border border-[#d4a03c]/60 bg-[#d4a03c]/15 px-4 py-1.5 text-[11px] font-extrabold uppercase tracking-[.16em] text-[#f1cf86] md:text-xs">
+            {/* <span className="inline-flex items-center gap-2 rounded-full border border-[#d4a03c]/60 bg-[#d4a03c]/15 px-4 py-1.5 text-[11px] font-extrabold uppercase tracking-[.16em] text-[#f1cf86] md:text-xs">
               <span className="h-2 w-2 rounded-full bg-[#f1cf86]" />
               Presale is open
-            </span>
+            </span> */}
 
             <h2 className="mt-4 text-[38px] font-black leading-[1.05] text-white md:text-6xl">
               Get Your Tickets
