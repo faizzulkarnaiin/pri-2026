@@ -112,7 +112,7 @@ const TIERS: Tier[] = [
     perks: [
       "Snack",
       "Mineral water",
-      "Merchandise: keychain + wallet",
+      "Merchandise",
     ],
   },
   {
