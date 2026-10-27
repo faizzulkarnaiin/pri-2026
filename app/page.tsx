@@ -96,7 +96,7 @@ const TIERS: Tier[] = [
     theme: "green",
     people: 1,
     perkTitle: "What you get",
-    perks: ["Mineral water", "Donut"],
+    perks: ["Mineral water", "Snack"],
     note: "Benefits for the first 200 people only.",
   },
   {
@@ -110,7 +110,7 @@ const TIERS: Tier[] = [
     vip: true,
     perkTitle: "What you get",
     perks: [
-      "Chocolate x2",
+      "Snack",
       "Mineral water",
       "Merchandise: keychain + wallet",
     ],
@@ -127,7 +127,7 @@ const TIERS: Tier[] = [
     people: 2,
     ribbon: "Better together",
     perkTitle: "Each person gets",
-    perks: ["Mineral water", "Donut"],
+    perks: ["Mineral water", "Snack"],
     note: "Benefits for the first 200 people only.",
   },
   {
@@ -144,7 +144,7 @@ const TIERS: Tier[] = [
     featured: true,
     ribbon: "Best value · 1 free slot",
     perkTitle: "Each of the 5 slots gets",
-    perks: ["Mineral water", "Donut"],
+    perks: ["Mineral water", "Snack"],
     note: "Benefits for the first 200 people only.",
   },
 ];
@@ -170,7 +170,7 @@ const FAQS = [
   },
   {
     q: "Who gets the snack and drink?",
-    a: "The first 200 people who buy a Regular, Couple, or Gank ticket. Each person gets a mineral water and a donut.",
+    a: "The first 200 people who buy a Regular, Couple, or Gank ticket. Each person gets a mineral water and a snack.",
   },
   {
     q: "Still have questions?",
