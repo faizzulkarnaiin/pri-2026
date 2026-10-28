@@ -8,7 +8,7 @@ import HeroImage from "./hero-image";
    ===================================================================== */
 
 const FORM_URL =
-  "https://docs.google.com/forms/d/e/1FAIpQLSedbDuDom6u3fXvt5VdmRxavbi4faDvbV30gTLI7GpvDFBLOQ/viewform?usp=publish-editor";
+  "https://docs.google.com/forms/d/e/1FAIpQLSdLcQU9zqzMXFgdEzdM7rOPWxIiJMjB2MY-GBCSEkj8xphTqA/viewform?usp=publish-editor";
 const HERO_IMAGE = "/images/banner.jpg";
 const WA_URL = "https://wa.me/60175693970";
 const IG_URL =
@@ -829,10 +829,10 @@ export default function Home() {
       >
         <div className="relative mx-auto max-w-6xl">
           <div className="mx-auto mb-8 max-w-2xl text-center md:mb-12">
-            {/* <span className="inline-flex items-center gap-2 rounded-full border border-[#d4a03c]/60 bg-[#d4a03c]/15 px-4 py-1.5 text-[11px] font-extrabold uppercase tracking-[.16em] text-[#f1cf86] md:text-xs">
-              <span className="h-2 w-2 rounded-full bg-[#f1cf86]" />
-              Presale is open
-            </span> */}
+              {/* <span className="inline-flex items-center gap-2 rounded-full border border-[#d4a03c]/60 bg-[#d4a03c]/15 px-4 py-1.5 text-[11px] font-extrabold uppercase tracking-[.16em] text-[#f1cf86] md:text-xs">
+                <span className="h-2 w-2 rounded-full bg-[#f1cf86]" />
+                Presale is open
+              </span> */}
 
             <h2 className="mt-4 text-[38px] font-black leading-[1.05] text-white md:text-6xl">
               Get Your Tickets
