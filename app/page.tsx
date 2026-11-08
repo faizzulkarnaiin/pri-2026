@@ -236,6 +236,7 @@ const SPONSORS = [
   { name: "Pupuk Kaltim", src: "/images/pupuk-kaltim.png" },
   { name: "Unifilm", src: "/images/unifilm.png" },
   { name: "CIA SCIMPA", src: "/images/CIA SCIMPA.jpeg" },
+  { name: "Permai", src: "/images/Logo Permai Round.png" },
 ];
 
 const NAV = [
