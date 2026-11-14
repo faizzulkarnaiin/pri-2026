@@ -237,6 +237,7 @@ const SPONSORS = [
   { name: "Unifilm", src: "/images/unifilm.png" },
   { name: "CIA SCIMPA", src: "/images/CIA SCIMPA.jpeg" },
   { name: "Permai", src: "/images/Logo Permai Round.png" },
+  { name: "PPI DUNIA", src: "/images/295777.jpg" },
 ];
 
 const NAV = [
